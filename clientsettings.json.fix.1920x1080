@@ -187,7 +187,7 @@
     "wireframethickness": 1.0,
     "previewTransparency": 0.3,
     "fpHandsYOffset": 0.0,
-    "swimmingMouseSmoothing": 1.0,
+    "swimmingMouseSmoothing": 0.5,
     "mouseWheelSensivity": 1.0,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
