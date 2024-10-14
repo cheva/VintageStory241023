@@ -1,12 +1,12 @@
 {
-  "ChatNotifyOnWaypointCreation": false,
-  "EnableWaypointDeletionHotkey": false,
+  "ChatNotifyOnWaypointCreation": true,
+  "EnableWaypointDeletionHotkey": true,
   "ChatNotifyOnWaypointDeletion": true,
   "EnableCustomHotkeys": false,
   "EnableMarkOnSneak": true,
   "EnableMarkOnInteract": true,
   "LabelCoordinates": false,
-  "DisableAllModFeatures": true,
+  "DisableAllModFeatures": false,
   "ConfigVersion": 3.0,
   "AutoMapMarkers": {
     "OrganicMatter": {
@@ -16,7 +16,7 @@
         "MarkerColor": "darkorange",
         "MarkerIcon": "circle",
         "MarkerPinned": false,
-        "MarkerCoverageRadius": 1
+        "MarkerCoverageRadius": 2
       },
       "Blueberry": {
         "Enabled": false,
@@ -446,7 +446,7 @@
         "MarkerColor": "gold",
         "MarkerIcon": "bee",
         "MarkerPinned": false,
-        "MarkerCoverageRadius": 1
+        "MarkerCoverageRadius": 2
       },
       "Translocator": {
         "Enabled": false,
@@ -538,7 +538,7 @@
         "MarkerColor": "black",
         "MarkerIcon": "circle",
         "MarkerPinned": false,
-        "MarkerCoverageRadius": 1
+        "MarkerCoverageRadius": 2
       },
       "CustomMarker2": {
         "Enabled": false,
@@ -546,7 +546,7 @@
         "MarkerColor": "black",
         "MarkerIcon": "circle",
         "MarkerPinned": false,
-        "MarkerCoverageRadius": 1
+        "MarkerCoverageRadius": 2
       },
       "CustomMarker3": {
         "Enabled": false,
@@ -554,7 +554,7 @@
         "MarkerColor": "black",
         "MarkerIcon": "circle",
         "MarkerPinned": false,
-        "MarkerCoverageRadius": 1
+        "MarkerCoverageRadius": 2
       }
     }
   }

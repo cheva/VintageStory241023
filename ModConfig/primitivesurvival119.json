@@ -70,12 +70,12 @@
   "TreeHollowsMaxItems": 8,
   "TreeHollowsEnableDeveloperTools": false,
   "TreeHollowsMaxPerChunk": 1,
-  "TreeHollowsSpawnProbability": 0.15,
-  "TreeHollowsUpdateMinutes": 360.0,
-  "WeirTrapCatchPercent": 3,
+  "TreeHollowsSpawnProbability": 0.5,
+  "TreeHollowsUpdateMinutes": 60.0,
+  "WeirTrapCatchPercent": 5,
   "WeirTrapEscapePercent": 15,
-  "WeirTrapUpdateMinutes": 2.6,
+  "WeirTrapUpdateMinutes": 2.0,
   "WeirTrapRotRemovedPercent": 10,
-  "WormFoundPercentRock": 3,
-  "WormFoundPercentStickFlint": 25
+  "WormFoundPercentRock": 5,
+  "WormFoundPercentStickFlint": 30
 }

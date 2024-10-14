@@ -1,5 +1,5 @@
 {
-  "BuzzRadius": 12,
-  "BuzzFontSize": 20,
-  "BuzzFontColor": "yellow"
+  "BuzzRadius": 3,
+  "BuzzFontSize": 30,
+  "BuzzFontColor": "white"
 }
