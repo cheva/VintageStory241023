@@ -81,7 +81,7 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 1,
     "ssaoQuality": 0,
-    "viewDistance": 128,
+    "viewDistance": 96,
     "fieldOfView": 66,
     "maxFps": 30,
     "particleLevel": 20,
@@ -138,7 +138,7 @@
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
     "showCoordinateHud": false,
-    "wavingStuff": true,
+    "wavingStuff": false,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -173,7 +173,7 @@
     "noHandbookPause": false
   },
   "floatSettings": {
-    "guiScale": 1.0,
+    "guiScale": 0.75,
     "fontSize": 1.0,
     "lodBias": 0.33,
     "lodBiasFar": 0.67,
