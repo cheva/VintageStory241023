@@ -184,7 +184,7 @@
     "brightnessLevel": 1.0,
     "sepiaLevel": 0.3481876,
     "cameraShakeStrength": 1.0,
-    "wireframethickness": 2.0,
+    "wireframethickness": 1.5,
     "previewTransparency": 0.3,
     "fpHandsYOffset": 0.0,
     "swimmingMouseSmoothing": 0.5,
