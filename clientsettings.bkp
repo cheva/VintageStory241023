@@ -47,6 +47,30 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
+    },
+    "recomposeallguis": {
+      "KeyCode": 12,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": true,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "egocarib_MapMarkerGUI": {
+      "KeyCode": 128,
+      "SecondKeyCode": null,
+      "Ctrl": true,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "zoombutton": {
+      "KeyCode": 241,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
     }
   },
   "dialogPositions": {
@@ -199,7 +223,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.3769658,
+    "sepiaLevel": 0.38123336,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
