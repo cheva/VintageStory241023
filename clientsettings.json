@@ -74,10 +74,13 @@
     }
   },
   "dialogPositions": {
-    "inventory-backpack": null,
+    "inventory-backpack": {
+      "X": 557,
+      "Y": 401
+    },
     "playerstats": {
-      "X": 995,
-      "Y": 190
+      "X": 1208,
+      "Y": 265
     },
     "environment": {
       "X": 5,
@@ -86,6 +89,10 @@
     "playercharacter": {
       "X": -3,
       "Y": 438
+    },
+    "handbook-overview": {
+      "X": 559,
+      "Y": 94
     }
   },
   "stringSettings": {
@@ -119,11 +126,11 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 1,
     "ssaoQuality": 0,
-    "viewDistance": 128,
+    "viewDistance": 96,
     "fieldOfView": 66,
     "maxFps": 30,
-    "particleLevel": 30,
-    "maxDynamicLights": 5,
+    "particleLevel": 20,
+    "maxDynamicLights": 3,
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
     "chunkVerticesUploadRateLimiter": 4,
@@ -132,7 +139,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 0,
+    "musicLevel": 5,
     "screenWidth": 1920,
     "screenHeight": 1080,
     "gameWindowMode": 1,
@@ -176,7 +183,7 @@
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
     "showCoordinateHud": false,
-    "wavingStuff": true,
+    "wavingStuff": false,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -211,16 +218,16 @@
     "noHandbookPause": false
   },
   "floatSettings": {
-    "guiScale": 1.125,
-    "fontSize": 0.8,
-    "lodBias": 0.3,
-    "lodBiasFar": 0.75,
+    "guiScale": 0.75,
+    "fontSize": 1.0,
+    "lodBias": 0.25,
+    "lodBiasFar": 0.5,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39999995,
+    "sepiaLevel": 0.38653463,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,

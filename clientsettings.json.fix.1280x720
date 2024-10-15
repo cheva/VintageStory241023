@@ -47,9 +47,50 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
+    },
+    "recomposeallguis": {
+      "KeyCode": 12,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": true,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "egocarib_MapMarkerGUI": {
+      "KeyCode": 128,
+      "SecondKeyCode": null,
+      "Ctrl": true,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "zoombutton": {
+      "KeyCode": 241,
+      "SecondKeyCode": null,
+      "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
     }
   },
-  "dialogPositions": {},
+  "dialogPositions": {
+    "inventory-backpack": {
+      "X": 557,
+      "Y": 401
+    },
+    "playerstats": {
+      "X": 1208,
+      "Y": 265
+    },
+    "environment": {
+      "X": 5,
+      "Y": 804
+    },
+    "playercharacter": {
+      "X": -3,
+      "Y": 438
+    }
+  },
   "stringSettings": {
     "settingsVersion": "1.13",
     "language": "ru",
@@ -93,8 +134,8 @@
     "soundLevel": 100,
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
-    "weatherSoundLevel": 60,
-    "musicLevel": 0,
+    "weatherSoundLevel": 50,
+    "musicLevel": 5,
     "screenWidth": 1920,
     "screenHeight": 1080,
     "gameWindowMode": 1,
@@ -175,14 +216,14 @@
   "floatSettings": {
     "guiScale": 0.75,
     "fontSize": 1.0,
-    "lodBias": 0.3,
+    "lodBias": 0.25,
     "lodBiasFar": 0.5,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.4,
+    "sepiaLevel": 0.37412345,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -193,8 +234,8 @@
     "extraContrastLevel": 0.5,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
-    "instabilityWavingStrength": 0.50,
-    "ssaa": 0.50,
+    "instabilityWavingStrength": 0.5,
+    "ssaa": 0.5,
     "megaScreenshotSizeMul": 2.0,
     "minbrightness": 0.1
   },
