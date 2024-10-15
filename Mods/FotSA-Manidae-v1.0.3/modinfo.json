@@ -1,0 +1,9 @@
+{
+  "type": "content",
+  "modid": "manidae",
+  "name": "Fauna of the Stone Age: Manidae",
+  "authors": [ "Tenth Architect" ],
+  "description": "A collection of pangolin from the Holocene.",
+  "version": "1.0.3",
+  "side": "Universal"
+}
