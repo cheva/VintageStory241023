@@ -49,7 +49,24 @@
       "OnKeyUp": false
     }
   },
-  "dialogPositions": {},
+  "dialogPositions": {
+    "inventory-backpack": {
+      "X": -9,
+      "Y": 0
+    },
+    "playerstats": {
+      "X": 1208,
+      "Y": 265
+    },
+    "environment": {
+      "X": 5,
+      "Y": 804
+    },
+    "playercharacter": {
+      "X": -3,
+      "Y": 438
+    }
+  },
   "stringSettings": {
     "settingsVersion": "1.13",
     "language": "ru",
@@ -81,11 +98,11 @@
     "shadowMapQuality": 0,
     "optimizeRamMode": 1,
     "ssaoQuality": 0,
-    "viewDistance": 96,
+    "viewDistance": 128,
     "fieldOfView": 66,
     "maxFps": 30,
-    "particleLevel": 20,
-    "maxDynamicLights": 3,
+    "particleLevel": 30,
+    "maxDynamicLights": 5,
     "weirdMacOSMouseYOffset": 5,
     "screenshotExifDataMode": 0,
     "chunkVerticesUploadRateLimiter": 4,
@@ -93,7 +110,7 @@
     "soundLevel": 100,
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
-    "weatherSoundLevel": 60,
+    "weatherSoundLevel": 50,
     "musicLevel": 0,
     "screenWidth": 1920,
     "screenHeight": 1080,
@@ -138,7 +155,7 @@
     "showBlockInfoHud": true,
     "showBlockInteractionHelp": true,
     "showCoordinateHud": false,
-    "wavingStuff": false,
+    "wavingStuff": true,
     "renderMetaBlocks": false,
     "ambientParticles": true,
     "pauseGameOnLostFocus": false,
@@ -173,16 +190,16 @@
     "noHandbookPause": false
   },
   "floatSettings": {
-    "guiScale": 0.75,
-    "fontSize": 1.0,
-    "lodBias": 0.33,
-    "lodBiasFar": 0.5,
+    "guiScale": 1.125,
+    "fontSize": 0.8,
+    "lodBias": 0.3,
+    "lodBiasFar": 0.75,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
-    "gammaLevel": 1.8,
+    "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.3991567,
+    "sepiaLevel": 0.37688547,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
@@ -190,13 +207,13 @@
     "swimmingMouseSmoothing": 0.5,
     "mouseWheelSensivity": 1.0,
     "ambientBloomLevel": 0.0,
-    "extraContrastLevel": 0.49999994,
+    "extraContrastLevel": 0.5,
     "recordingFrameRate": 30.0,
     "gameTickFrameRate": -1.0,
-    "instabilityWavingStrength": 1.0,
+    "instabilityWavingStrength": 0.5,
     "ssaa": 0.5,
     "megaScreenshotSizeMul": 2.0,
-    "minbrightness": 0.0
+    "minbrightness": 0.1
   },
   "stringListSettings": {
     "multiplayerservers": [],
