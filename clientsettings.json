@@ -75,8 +75,8 @@
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": -9,
-      "Y": 0
+      "X": 569,
+      "Y": 416
     },
     "playerstats": {
       "X": 1208,
@@ -93,7 +93,7 @@
   },
   "stringSettings": {
     "settingsVersion": "1.13",
-    "language": "en",
+    "language": "ru",
     "defaultFontName": "Consolas",
     "decorativeFontName": "Book Antiqua",
     "recordingCodec": "rawv",
@@ -223,7 +223,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.4,
+    "sepiaLevel": 0.38137084,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
