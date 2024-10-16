@@ -89,6 +89,10 @@
     "playercharacter": {
       "X": -3,
       "Y": 438
+    },
+    "blockentitystove128242, 136, 127940": {
+      "X": 715,
+      "Y": 0
     }
   },
   "stringSettings": {
@@ -136,8 +140,8 @@
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
     "musicLevel": 10,
-    "screenWidth": 1280,
-    "screenHeight": 720,
+    "screenWidth": 1920,
+    "screenHeight": 1080,
     "gameWindowMode": 1,
     "rightDialogMargin": 0,
     "leftDialogMargin": 0,
@@ -214,16 +218,16 @@
     "noHandbookPause": false
   },
   "floatSettings": {
-    "guiScale": 0.75,
+    "guiScale": 1.125,
     "fontSize": 1.0,
     "lodBias": 0.25,
-    "lodBiasFar": 0.55,
+    "lodBiasFar": 0.45,
     "blockAtlasSubPixelPadding": 0.01,
     "itemAtlasSubPixelPadding": 0.0,
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.33364892,
+    "sepiaLevel": 0.38299185,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
