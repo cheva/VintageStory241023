@@ -4,17 +4,12 @@ For reference in case anyone else finds themselves liking these settings, I foun
 of Plains and Valleys together with the Rivers mod ( https://mods.vintagestory.at/rivers ) using the following settings:
 
 World Height: 320
-
 Landcover: 90% (80 if you want a bit more water)
-
 Landcover scale: 400%
-
 Upheaval: 0%
-
 Landform scale: 100% (if you want a bit more flatness to the terrain, go higher up to 150%. However I felt it became 'too' flat)
 
 For the Rivers mod I changed it's modconfig (%AppData%\VintagestoryData\ModConfig/Rivers.json) "oceanThreshold" setting from 30 to 15.
 
 Example: https://imgur.com/LJGGvSh
-
-Edit, one more: imgur.com/0taxm2c
+Edit, one more: https://imgur.com/0taxm2c
