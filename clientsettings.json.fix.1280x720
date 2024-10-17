@@ -57,9 +57,9 @@
       "OnKeyUp": false
     },
     "egocarib_MapMarkerGUI": {
-      "KeyCode": 128,
+      "KeyCode": 53,
       "SecondKeyCode": null,
-      "Ctrl": true,
+      "Ctrl": false,
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
@@ -68,6 +68,14 @@
       "KeyCode": 241,
       "SecondKeyCode": null,
       "Ctrl": false,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
+    },
+    "beginchat": {
+      "KeyCode": 127,
+      "SecondKeyCode": null,
+      "Ctrl": true,
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
@@ -135,7 +143,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 10,
+    "musicLevel": 0,
     "screenWidth": 1280,
     "screenHeight": 720,
     "gameWindowMode": 1,
@@ -223,7 +231,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.35644856,
+    "sepiaLevel": 0.37264392,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,

@@ -57,9 +57,9 @@
       "OnKeyUp": false
     },
     "egocarib_MapMarkerGUI": {
-      "KeyCode": 128,
+      "KeyCode": 53,
       "SecondKeyCode": null,
-      "Ctrl": true,
+      "Ctrl": false,
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
@@ -71,12 +71,20 @@
       "Alt": false,
       "Shift": false,
       "OnKeyUp": false
+    },
+    "beginchat": {
+      "KeyCode": 127,
+      "SecondKeyCode": null,
+      "Ctrl": true,
+      "Alt": false,
+      "Shift": false,
+      "OnKeyUp": false
     }
   },
   "dialogPositions": {
     "inventory-backpack": {
-      "X": 569,
-      "Y": 408
+      "X": 559,
+      "Y": 422
     },
     "playerstats": {
       "X": -360,
@@ -89,10 +97,6 @@
     "playercharacter": {
       "X": -3,
       "Y": 438
-    },
-    "toolmodeselect128193, 138, 127923": {
-      "X": 685,
-      "Y": 76
     }
   },
   "stringSettings": {
@@ -112,8 +116,7 @@
     "audioDevice": null,
     "playeruid": "1234567890",
     "playername": "Dee",
-    "lastSkinSelection": "baseskin:skin9,eyecolor:jade,underwear:twopiece,voicetype:tuba,voicepitch:verylow,hairbase:longflowing,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-u05-stirrups,beard:brd-box20-full,haircolor:wintergreendream",
-    "currentHandbookCategoryCode": "guide"
+    "lastSkinSelection": "baseskin:skin9,eyecolor:jade,underwear:twopiece,voicetype:tuba,voicepitch:verylow,hairbase:longflowing,hairextra:vikingtopbraid,facialexpression:sad,mustache:mst-u05-stirrups,beard:brd-box20-full,haircolor:wintergreendream"
   },
   "intSettings": {
     "fpHandsFoV": 75,
@@ -140,7 +143,7 @@
     "entitySoundLevel": 100,
     "ambientSoundLevel": 100,
     "weatherSoundLevel": 50,
-    "musicLevel": 10,
+    "musicLevel": 0,
     "screenWidth": 1280,
     "screenHeight": 720,
     "gameWindowMode": 1,
@@ -228,7 +231,7 @@
     "gammaLevel": 2.0,
     "extraGammaLevel": 1.0,
     "brightnessLevel": 1.0,
-    "sepiaLevel": 0.39999992,
+    "sepiaLevel": 0.36833584,
     "cameraShakeStrength": 1.0,
     "wireframethickness": 1.5,
     "previewTransparency": 0.3,
