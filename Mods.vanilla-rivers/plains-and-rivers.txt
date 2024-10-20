@@ -1,7 +1,9 @@
 NOT WORKS!!! 
 Settings "vanilla plains and rivers 256k 320h 80% 300% 0% 100% &200% rare minerals" 
 Maybe 80%300 are too much or 0%100 must be 30%200 ???
-
+NOT WORKS!!! 
+50% 200% too
+------------
 Wow, this creates absolutely stunning worlds. Been tinkering around with worldgen settings for a few hours to see what I liked.
 
 For reference in case anyone else finds themselves liking these settings, I found myself really enjoying a combination 
