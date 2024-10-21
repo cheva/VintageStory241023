@@ -4,9 +4,9 @@
   "modid": "blocksoverlay",
   "description": "Overlay blocks and entities onto the HUD",
   "authors": ["xel"],
-  "version": "3.3.0",
+  "version": "3.4.0",
   "side": "Client",
   "dependencies": {
-    "game": "1.19.0"
+    "game": "1.20.0-pre.6"
   }
 }
