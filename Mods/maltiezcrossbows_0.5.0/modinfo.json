@@ -1,0 +1,18 @@
+{
+    "type": "code",
+    "name": "Crossbows",
+    "modid": "maltiezcrossbows",
+    "version": "0.5.0",
+
+    "description": "Medieval crossbows",
+    "authors": [ "Maltiez" ],
+    "translation": [ "Kaofan - Polish", "RikeiR - Japanese", "rodolfo_de_jesus_berthely_ - Spanish (Latin America)", "DrLulu - French" ],
+
+    "dependencies": {
+        "game": "1.20.0-pre.5", "combatoverhaul": "0.0.11"
+    },
+
+    "side" : "Universal",
+    "requiredOnClient": true,
+    "requiredOnServer": true
+}
